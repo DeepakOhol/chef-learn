@@ -1,6 +1,6 @@
 name 'multiple_cookbook'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Deepak Ohol'
+maintainer_email 'deepohol@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures multiple_cookbook'
 long_description 'Installs/Configures multiple_cookbook'
